@@ -1,0 +1,22 @@
+{
+  "name": "jud-loader",
+  "version": "0.0.1",
+  "description": "jud loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkiding/jud-loader.git"
+  },
+  "keywords": [
+    "jud"
+  ],
+  "author": "vkiding",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vkiding/jud-loader/issues"
+  },
+  "homepage": "https://github.com/vkiding/jud-loader#readme"
+}
