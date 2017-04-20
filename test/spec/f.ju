@@ -1,0 +1,5 @@
+<element name="hi" src="./hi.ju"></element>
+<element name="name" src="./name.ju"></element>
+<template src="./f.html"></template>
+<style src="./f.css"></style>
+<script src="./f.js"></script>
