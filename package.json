@@ -1,6 +1,6 @@
 {
   "name": "jud-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "jud loader",
   "main": "index.js",
   "repository": {
@@ -45,7 +45,7 @@
     "sinon": "^1.17.3",
     "sinon-chai": "^2.8.0",
     "webpack": "~1.13.0",
-    "jud-components": "^0.0.1"
+    "jud-components": "latest"
   },
   "dependencies": {
     "babel-loader": "^6.2.4",
@@ -57,11 +57,11 @@
     "md5": "^2.1.0",
     "parse5": "^2.1.5",
     "source-map": "^0.5.6",
-    "jud-scripter": "^0.0.1",
-    "jud-styler": "^0.0.1",
-    "jud-templater": "^0.0.2",
-    "jud-transformer": "^0.0.3",
-    "jud-vue-loader": "^0.0.1"
+    "jud-scripter": "latest",
+    "jud-styler": "latest",
+    "jud-templater": "latest",
+    "jud-transformer": "latest",
+    "jud-vue-loader": "latest"
   },
   "babel": {
     "presets": [
