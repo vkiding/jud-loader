@@ -3,13 +3,13 @@
 </template>
 
 <script>
-  require('./example-list.we');
+  require('./example-list.ju');
   module.exports = {
     data: {
       root: 'examples',
       items: [
         // FORMAT:
-        // `name` key is the example filename without '.we'
+        // `name` key is the example filename without '.ju'
         // Support sub directory, e.g. 'new-fashion/index'
 
         // common

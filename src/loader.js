@@ -33,7 +33,7 @@ function loadBabelModule (moduleName) {
   try {
     const path = require.resolve(moduleName)
     return path.slice(0, path.indexOf(moduleName) + moduleName.length)
-  } 
+  }
   catch (e) {
     return moduleName
   }
